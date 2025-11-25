@@ -591,35 +591,6 @@ Comprehensive Results Report
 - **Channel Filtering**: Remove bad/noisy channels
 - **Time Window Extraction**: Precise temporal alignment
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Follow the existing code style and structure
-2. Add docstrings to all new functions and classes
-3. Ensure backward compatibility with existing code
-4. Test changes with the provided example data
-5. Update this README for significant new features
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-**Copyright © 2025 MohammadMahdi Sharifbeigy**
-
----
-
-## 📧 Project Information
-
-**Type**: Neuroelectrophysiology Data Analysis Framework
-**Language**: Python 3.6+
-**Version**: 1.1.0
-**Status**: Active Development
-**Use Case**: Multi-electrode spike analysis, neural classification, feature importance analysis
 
 ---
 
@@ -631,18 +602,3 @@ This project implements modern machine learning and statistical analysis techniq
 - Spike statistics and machine learning training
 - Comparative classifier evaluation
 
----
-
-## 📚 References & Further Reading
-
-- **NumPy/SciPy**: Numerical computing https://numpy.org, https://scipy.org
-- **Pandas**: Data manipulation https://pandas.pydata.org
-- **scikit-learn**: Machine learning https://scikit-learn.org
-- **Matplotlib**: Visualization https://matplotlib.org
-
----
-
-**Last Updated**: November 2025
-**Total Code**: 4,952 lines of Python
-**Modules**: 3 (data, features, analysis)
-**Scripts**: 2 main (main.py, Plot_Functions.py)
